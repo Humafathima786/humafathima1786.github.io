@@ -1,3 +1,3 @@
 hello there...
-there is a file named AAssignment.csv which has the data that your company has given as assignment to do
-all others are images
+there is a file named 0AAssignment.csv which has the data that your company has given as assignment to do
+all others are images which are used in the csv file
